@@ -69,7 +69,9 @@ Power Supply: The fire alarm circuit typically receives power from a reliable el
 
 
 ### Layout diagram
-![image](https://github.com/Suresh-2006/PCB-Design-Application/assets/149347611/29b20167-e229-4730-9bed-027f3845405c)
+
+![image](https://github.com/Suresh-2006/PCB-Design-Application/assets/149347611/eb9c60c0-bb5b-4222-bda6-8879d5f4e470)
+
 
 
 
